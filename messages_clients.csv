@@ -1,0 +1,339 @@
+id_message,date_message,Category,Message
+MSG0001,2025-03-13,ham,Sounds great! Are you home now?
+MSG0002,2025-01-02,ham,Quel est le délai de livraison pour Fès ?
+MSG0003,2025-06-16,ham,Y a-t-il une offre de garantie sur le robe ?
+MSG0004,2025-02-28,ham,Pouvez-vous me dire si le ordinateur portable est en stock ?
+MSG0005,2025-01-06,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0006,2025-02-23,ham,"Bonsoir, je voudrais annuler la commande CMD0424, elle n'est pas encore expédiée."
+MSG0007,2025-06-02,ham,u still want the free shipping coupon you asked about yesterday?
+MSG0008,2025-12-01,ham,Quel est le délai de livraison pour Rabat ?
+MSG0009,2025-10-12,ham,Y a-t-il une offre de garantie sur le casque ?
+MSG0010,2025-09-18,ham,Est-ce que je peux payer à la livraison à Rabat ?
+MSG0011,2025-02-11,spam,"Gagnez 5000 DH par semaine sans effort, inscription gratuite www.offre-flash.top"
+MSG0012,2025-10-11,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0013,2025-10-02, ham ,"Hi, can you send me the report of last sprint?"
+MSG0014,2025-07-03,HAM,"Salam, wach kayn livraison l Fès ? Choukran."
+MSG0015,2025-03-28,ham,Y a-t-il une offre de garantie sur le téléphone ?
+MSG0016,2025-09-17,spam,"Will u meet ur dream soon? Is ur career off 2 a flyng start? 2 find out free, txt HORO followed by ur star sign"
+MSG0017,2025-10-21,ham,Pouvez-vous me dire si le ordinateur portable est en stock ?
+MSG0018,2025-07-02,ham,Est-ce que la livraison est gratuite à Tétouan ?
+MSG0019,2025-09-24,ham,Please confirm that my order CMD0180 will be delivered before Friday.
+MSG0020,2025-05-27,ham,Quel est le délai de livraison pour Casablanca ?
+MSG0021,2025-09-05,,"Hi, can you send me the report of last sprint?"
+MSG0022,2025-02-22,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0023,2025-04-25,ham,Is the casque available in another color?
+MSG0024,2025-08-11,HAM,Pouvez-vous m'envoyer la facture de la commande CMD0078 svp ?
+MSG0025,2025-01-27,ham,"Bonsoir, je voudrais annuler la commande CMD0442, elle n'est pas encore expédiée."
+MSG0026,2025-06-21,ham,Pouvez-vous m'envoyer la facture de la commande CMD0370 svp ?
+MSG0027,2025-06-23,ham,Pouvez-vous me dire si le ordinateur portable est en stock ?
+MSG0028,2025-06-29,ham,Quel est le délai de livraison pour Fès ?
+MSG0029,2025-05-15,ham,"ok pour demain, jpasse chercher le colis vers 18h"
+MSG0030,2025-11-28,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0031,2025-07-10,ham,"Bonjour, ma commande CMD0253 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0032,2025-12-01,ham,"Hi, can you send me the report of last sprint?"
+MSG0033,2025-12-19,ham,"Hi, can you send me the report of last sprint?"
+MSG0034,2025-05-28,ham,Quel est le délai de livraison pour Fès ?
+MSG0035,2025-06-19,HAM,"Bonsoir, je voudrais annuler la commande CMD0251, elle n'est pas encore expédiée."
+MSG0036,2025-05-17,ham,"Bonjour, ma commande CMD0217 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0037,2025-05-17,spam,"Offre exclusive : -70% sur tout aujourd'hui seulement, abonnez-vous gratuitement www.offre-flash.top"
+MSG0038,2025-06-25,spam,"Bonjour cher client, une surprise vous attend, passez sur notre page"
+MSG0039,2025-09-18,ham,"Hi, can you send me the report of last sprint?"
+MSG0040,2025-05-14,spam,"Prêt instantané sans justificatif, appelez le 0800 gratuit maintenant !!!"
+MSG0041,2025-06-07, spam ,"Gagnez 5000 DH par semaine sans effort, inscription gratuite bit.ly/x8Kd2"
+MSG0042,2025-06-09,ham,Pouvez-vous me dire si le robe est en stock ?
+MSG0043,2025-03-25,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0044,2025-02-13,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0045,2025-01-15,ham,Is the sac à main available in another color?
+MSG0046,2025-01-06,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0047,2025-08-31,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0048,2025-09-01,ham,"Bonjour, ma commande CMD0267 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0049,2025-05-09,spam,Cliquez ici pour recevoir votre cadeau gratuit : go.cadeau-vip.info
+MSG0050,2025-06-29,ham,"Merci, j'ai bien reçu mon colis CMD0147, tout est conforme."
+MSG0051,2025-01-07,ham,Is the casque available in another color?
+MSG0052,2025-06-13,ham,"Salam, wach kayn livraison l Agadir ? Choukran."
+MSG0053,2025-12-03,ham,"Merci, j'ai bien reçu mon colis CMD0325, tout est conforme."
+MSG0054,2025-08-15,ham,Pouvez-vous m'envoyer la facture de la commande CMD0082 svp ?
+MSG0055,2025-04-09,ham,Pouvez-vous me dire si le montre est en stock ?
+MSG0056,2025-02-23,ham,"Le colis CMD0183 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0057,2025-04-19,ham,"Hi, can you send me the report of last sprint?"
+MSG0058,2025-11-17,ham,Sounds great! Are you home now?
+MSG0059,2025-06-11,ham,"Bonjour, ma commande CMD0108 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0060,2025-01-26,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0061,2025-01-27,spam,"PROMO FLASH : aspirateur à 99 DH seulement, stock limité, cliquez go.cadeau-vip.info"
+MSG0062,2025-08-16,ham,"Le chaussures que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0063,2025-11-09,ham,"Bonsoir, je voudrais annuler la commande CMD0341, elle n'est pas encore expédiée."
+MSG0064,2025-02-23,ham,"Salam, wach kayn livraison l Agadir ? Choukran."
+MSG0065,2025-02-15,spam,"Augmentez votre followers en 24h, offre spéciale go.cadeau-vip.info"
+MSG0066,2025-11-17,ham,"Le colis CMD0218 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0067,2025-12-25,ham,"Salam, wach kayn livraison l Tétouan ? Choukran."
+MSG0068,2025-12-21,ham,"merci bcp, cmd bien recue"
+MSG0069,2025-08-01,ham,"Hi, can you send me the report of last sprint?"
+MSG0070,2025-05-15,ham,"Bonjour, vous aviez promis une offre pour les clients fidèles, je l'attends toujours."
+MSG0071,2025-09-08,,Est-ce que je peux payer à la livraison à Tanger ?
+MSG0072,2025-04-08,ham,Pouvez-vous m'envoyer la facture de la commande CMD0036 svp ?
+MSG0073,2025-08-25,ham,"Bonsoir, je voudrais annuler la commande CMD0137, elle n'est pas encore expédiée."
+MSG0074,2025-11-29,spam,"Congratulations! You are our lucky winner, claim your free voucher now"
+MSG0075,2025-11-22,spam,"Last chance! Limited offer, buy 1 get 2 free, order now tinyurl.com/gain5000"
+MSG0076,2025-12-26,spam,"Augmentez votre followers en 24h, offre spéciale bit.ly/x8Kd2"
+MSG0077,2025-10-06,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0078,2025-10-15,ham,Quel est le délai de livraison pour Marrakech ?
+MSG0079,2025-05-21,ham,"Salam, wach kayn livraison l Agadir ? Choukran."
+MSG0080,2025-05-07,ham,"Bonsoir, je voudrais annuler la commande CMD0141, elle n'est pas encore expédiée."
+MSG0081,2025-06-19,spam,"URGENT ! Votre compte est bloqué, confirmez vos informations bancaires sur tinyurl.com/gain5000"
+MSG0082,2025-03-18,ham,"Hi, can you send me the report of last sprint?"
+MSG0083,2025-10-13,ham,Y a-t-il une offre de garantie sur le casque ?
+MSG0084,2025-09-24,HAM,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0085,2025-02-28,ham,Sounds great! Are you home now?
+MSG0086,2025-10-03,ham,Y a-t-il une offre de garantie sur le ordinateur portable ?
+MSG0087,2025-01-04,ham,Pouvez-vous me dire si le chaussures est en stock ?
+MSG0088,2025-02-04,spam,"Gagnez 5000 DH par semaine sans effort, inscription gratuite promo-gagnant.xyz"
+MSG0089,2025-01-20,spam,Cliquez ici pour recevoir votre cadeau gratuit : bit.ly/x8Kd2
+MSG0090,2025-07-22,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0091,2025-10-07,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0092,2025-06-20,ham,Please confirm that my order CMD0251 will be delivered before Friday.
+MSG0093,2025-07-13,ham,
+MSG0094,2025-07-04,spam,"PROMO FLASH : iPhone à 99 DH seulement, stock limité, cliquez tinyurl.com/gain5000"
+MSG0095,2025-03-07,ham,"Je voudrais retourner l'article de la commande CMD0105, comment faire ?"
+MSG0096,2025-07-24,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0097,2025-01-09,spam,"Vous êtes sélectionné pour un voyage gratuit à Dubaï, répondez OUI maintenant"
+MSG0098,2025-07-22,ham,Please confirm that my order CMD0248 will be delivered before Friday.
+MSG0099,2025-06-14,ham,Sounds great! Are you home now?
+MSG0100,2025-07-23,spam,"Rencontrez des célibataires près de chez vous, inscription gratuite tinyurl.com/gain5000"
+MSG0101,2025-02-11,ham,"Super service, je recommande la boutique à mes amis !"
+MSG0102,2025-08-04,spam,"Congratulations! You are our lucky winner, claim your free voucher now"
+MSG0103,2025-06-09,spam,"Vous êtes sélectionné pour un voyage gratuit à Dubaï, répondez OUI maintenant"
+MSG0104,2025-02-12,ham,Is the iPhone available in another color?
+MSG0105,2025-10-02,ham,Pouvez-vous m'envoyer la facture de la commande CMD0370 svp ?
+MSG0106,2025-06-20, ham ,Pouvez-vous m'envoyer la facture de la commande CMD0309 svp ?
+MSG0107,2025-10-28,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0108,2025-09-08,ham,Est-ce que je peux payer à la livraison à Marrakech ?
+MSG0109,2025-07-29, ham ,Pouvez-vous me dire si le sac à main est en stock ?
+MSG0110,2025-08-24,ham,"Bonjour, ma commande CMD0249 est arrivée en retard, c'est dommage."
+MSG0111,2025-02-01,spam,"Rencontrez des célibataires près de chez vous, inscription gratuite bit.ly/x8Kd2"
+MSG0112,2025-10-30,ham,Est-ce que la livraison est gratuite à Casablanca ?
+MSG0113,2025-08-19,ham,"Le colis CMD0284 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0114,2025-05-29,ham,"Merci, j'ai bien reçu mon colis CMD0206, tout est conforme."
+MSG0115,2025-04-19,ham,Y a-t-il une offre de garantie sur le aspirateur ?
+MSG0116,2025-07-20,ham,"Le téléphone que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0117,2025-04-21,ham,Pouvez-vous me dire si le ordinateur portable est en stock ?
+MSG0118,2025-01-23,ham,Is the téléphone available in another color?
+MSG0119,2025-02-18,ham,"Le code de suivi de CMD0480 ne marche pas, aidez-moi svp."
+MSG0120,2025-05-12,ham,"Merci, j'ai bien reçu mon colis CMD0214, tout est conforme."
+MSG0121,2025-11-01,HAM,"Hi, can you send me the report of last sprint?"
+MSG0122,2025-08-17,ham,"Le code de suivi de CMD0012 ne marche pas, aidez-moi svp."
+MSG0123,2025-02-03,ham,Est-ce que la livraison est gratuite à Rabat ?
+MSG0124,2025-10-27,spam,"Free entry in 2 a weekly competition to win tickets, text WIN now"
+MSG0125,2025-07-19,spam,"FELICITATIONS ! Vous avez gagné un chaussures gratuit, cliquez ici maintenant go.cadeau-vip.info"
+MSG0126,2025-05-25,ham,Est-ce que la livraison est gratuite à Marrakech ?
+MSG0127,2025-04-20,spam,"Votre colis est en attente, payez 20 DH de frais de douane ici go.cadeau-vip.info"
+MSG0128,2025-06-29,ham,"Le code de suivi de CMD0402 ne marche pas, aidez-moi svp."
+MSG0129,2025-08-12,ham,Sounds great! Are you home now?
+MSG0130,2025-02-09,ham,"Bonjour, ma commande CMD0317 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0131,2025-12-05,ham,"Le colis CMD0404 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0132,2025-01-24,ham,
+MSG0133,2025-06-30,,"Bonjour, je souhaite changer l'adresse de livraison de CMD0142."
+MSG0134,2025-01-26,spam,"Prêt instantané sans justificatif, appelez le 0800 gratuit maintenant !!!"
+MSG0135,2025-05-14,ham,"Le téléphone que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0136,2025-03-23,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0137,2025-10-07,spam,subscribe now for free
+MSG0138,2025-01-31,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0139,2025-01-05,ham,"Bonjour, ma commande CMD0254 est arrivée en retard, c'est dommage."
+MSG0140,2025-06-03,spam,"Prêt instantané sans justificatif, appelez le 0800 gratuit maintenant !!!"
+MSG0141,2025-10-08,spam,"Votre colis est en attente, payez 20 DH de frais de douane ici bit.ly/x8Kd2"
+MSG0142,2025-03-28,spam,Cliquez ici pour recevoir votre cadeau gratuit : www.offre-flash.top
+MSG0143,2025-02-28,ham,Sounds great! Are you home now?
+MSG0144,2025-02-08,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0145,2025-10-12,ham,Est-ce que je peux payer à la livraison à Agadir ?
+MSG0146,2025-04-19,ham,"Le casque que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0147,2025-09-11,ham,Pouvez-vous me dire si le robe est en stock ?
+MSG0148,2025-07-09,ham,"Bonjour, ma commande CMD0371 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0149,2025-04-10,ham,"Salam, kifach nrjeaa l'article? Choukran"
+MSG0150,2025-06-02,ham,"Salam, wach kayn livraison l Tanger ? Choukran."
+MSG0151,2025-03-12,ham,Please confirm that my order CMD0093 will be delivered before Friday.
+MSG0152,2025-10-31,ham,"Je voudrais retourner l'article de la commande CMD0214, comment faire ?"
+MSG0153,2025-08-13,ham,"Bonsoir, je voudrais annuler la commande CMD0267, elle n'est pas encore expédiée."
+MSG0154,2025-03-14,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0155,2025-08-07,ham,"Le colis CMD0043 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0156,2025-01-11,spam,"Votre colis est en attente, payez 20 DH de frais de douane ici go.cadeau-vip.info"
+MSG0157,2025-03-20,ham,Sounds great! Are you home now?
+MSG0158,2025-08-20,spam,"Votre colis est en attente, payez 20 DH de frais de douane ici go.cadeau-vip.info"
+MSG0159,2025-08-29,ham,"Le colis CMD0099 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0160,2025-11-19,spam,"Bonus de bienvenue 100 DH offert, jouez maintenant tinyurl.com/gain5000"
+MSG0161,2025-03-13,ham,Quel est le délai de livraison pour Fès ?
+MSG0162,2025-04-19,ham,Y a-t-il une offre de garantie sur le téléphone ?
+MSG0163,2025-05-14,ham,"Merci, j'ai bien reçu mon colis CMD0393, tout est conforme."
+MSG0164,2025-04-25,ham,"Bonjour, ma commande CMD0243 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0165,2025-10-28,ham,Is the sac à main available in another color?
+MSG0166,2025-08-02,ham,"Je voudrais retourner l'article de la commande CMD0059, comment faire ?"
+MSG0167,2025-09-17,ham,"Le casque que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0168,2025-01-26,ham,Sounds great! Are you home now?
+MSG0169,2025-02-14,ham,Est-ce que la livraison est gratuite à Casablanca ?
+MSG0170,2025-07-29,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0171,2025-12-03,SPAM,"Will u meet ur dream soon? Is ur career off 2 a flyng start? 2 find out free, txt HORO followed by ur star sign"
+MSG0172,2025-12-08,spam,"Prêt instantané sans justificatif, appelez le 0800 gratuit maintenant !!!"
+MSG0173,2025-11-18,ham,Sounds great! Are you home now?
+MSG0174,2025-09-01,spam,"Rencontrez des célibataires près de chez vous, inscription gratuite bit.ly/x8Kd2"
+MSG0175,2025-01-01,HAM,"Bonjour, ma commande CMD0355 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0176,2025-05-07,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0177,2025-10-02,HAM,"Bonjour, je souhaite changer l'adresse de livraison de CMD0180."
+MSG0178,2025-03-11,ham,Please confirm that my order CMD0080 will be delivered before Friday.
+MSG0179,2025-10-25,spam,Verifiez votre identité maintenant sinon votre compte sera suspendu go.cadeau-vip.info
+MSG0180,2025-06-21,ham,Is the montre available in another color?
+MSG0181,2025-11-09,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0182,2025-08-18,ham,"Bonjour, ma commande CMD0165 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0183,2025-05-17,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0184,2025-01-03,HAM,Is the robe available in another color?
+MSG0185,2025-10-02,ham,"Le colis CMD0449 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0186,2025-09-08,ham,Est-ce que je peux payer à la livraison à Tétouan ?
+MSG0187,2025-06-19,spam,subscribe now for free
+MSG0188,2025-04-21,,"Bonjour, je souhaite changer l'adresse de livraison de CMD0325."
+MSG0189,2025-07-21,ham,"Bonjour, je souhaite changer l'adresse de livraison de CMD0381."
+MSG0190,2025-02-04,ham,Pouvez-vous m'envoyer la facture de la commande CMD0094 svp ?
+MSG0191,2025-05-28,ham,"Le sac à main que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0192,2025-11-11,ham,"Le téléphone que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0193,2025-07-16,HAM,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0194,2025-04-23,ham,Is the sac à main available in another color?
+MSG0195,2025-04-28,spam,"PROMO FLASH : montre à 99 DH seulement, stock limité, cliquez tinyurl.com/gain5000"
+MSG0196,2025-07-08,ham,"Le code de suivi de CMD0498 ne marche pas, aidez-moi svp."
+MSG0197,2025-10-07,ham,Please confirm that my order CMD0424 will be delivered before Friday.
+MSG0198,2025-05-20,HAM,Pouvez-vous me dire si le iPhone est en stock ?
+MSG0199,2025-12-14,ham,Sounds great! Are you home now?
+MSG0200,2025-12-25,ham,Y a-t-il une offre de garantie sur le iPhone ?
+MSG0201,2025-07-22,ham,"Le ordinateur portable que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0202,2025-09-29,ham,"Bonsoir, je voudrais annuler la commande CMD0294, elle n'est pas encore expédiée."
+MSG0203,2025-02-06,HAM,"Merci pour votre réponse rapide, bonne journée."
+MSG0204,2025-03-11,ham,"Bonjour, ma commande CMD0370 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0205,2025-02-05,ham,Pouvez-vous me dire si le casque est en stock ?
+MSG0206,2025-01-23,ham,"Bonjour, ma commande CMD0162 est arrivée en retard, c'est dommage."
+MSG0207,2025-04-05,ham,"Bonsoir, je voudrais annuler la commande CMD0481, elle n'est pas encore expédiée."
+MSG0208,2025-07-28, spam ,"Rencontrez des célibataires près de chez vous, inscription gratuite tinyurl.com/gain5000"
+MSG0209,2025-03-11,ham,"Le colis CMD0342 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0210,2025-08-20,spam,Cliquez ici pour recevoir votre cadeau gratuit : go.cadeau-vip.info
+MSG0211,2025-01-05,SPAM,"You have won a free téléphone! Call now to claim your prize, reply WIN to 8080"
+MSG0212,2025-09-30,spam,"Vous êtes sélectionné pour un voyage gratuit à Dubaï, répondez OUI maintenant"
+MSG0213,2025-06-29,ham,"Bonsoir, je voudrais annuler la commande CMD0198, elle n'est pas encore expédiée."
+MSG0214,2025-08-05,ham,Please confirm that my order CMD0455 will be delivered before Friday.
+MSG0215,2025-08-08,ham,"Merci, j'ai bien reçu mon colis CMD0086, tout est conforme."
+MSG0216,2025-08-17, ham ,"Merci, j'ai bien reçu mon colis CMD0433, tout est conforme."
+MSG0217,2025-05-18,ham,Quel est le délai de livraison pour Marrakech ?
+MSG0218,2025-10-12,spam,"Last chance! Limited offer, buy 1 get 2 free, order now www.offre-flash.top"
+MSG0219,2025-06-29,ham,"Bonsoir, je voudrais annuler la commande CMD0123, elle n'est pas encore expédiée."
+MSG0220,2025-02-07,spam,Cliquez ici pour recevoir votre cadeau gratuit : tinyurl.com/gain5000
+MSG0221,2025-04-22,spam,"Prêt instantané sans justificatif, appelez le 0800 gratuit maintenant !!!"
+MSG0222,2025-01-18,spam,subscribe now for free
+MSG0223,2025-03-03,ham,"Le casque que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0224,2025-12-13,spam,"URGENT ! Votre compte est bloqué, confirmez vos informations bancaires sur www.offre-flash.top"
+MSG0225,2025-07-22,spam,"URGENT ! Votre compte est bloqué, confirmez vos informations bancaires sur go.cadeau-vip.info"
+MSG0226,2025-10-03,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0227,2025-09-23,ham,"Le code de suivi de CMD0105 ne marche pas, aidez-moi svp."
+MSG0228,2025-02-14,ham,Sounds great! Are you home now?
+MSG0229,2025-08-29,ham,"Bonsoir, je voudrais annuler la commande CMD0017, elle n'est pas encore expédiée."
+MSG0230,2025-09-20,ham,"Bonsoir, je voudrais annuler la commande CMD0004, elle n'est pas encore expédiée."
+MSG0231,2025-06-06,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0232,2025-03-07,ham,Est-ce que je peux payer à la livraison à Agadir ?
+MSG0233,2025-01-05,ham,"Hi, can you send me the report of last sprint?"
+MSG0234,2025-01-09,ham,"Hi, can you send me the report of last sprint?"
+MSG0235,2025-05-19,ham,Pouvez-vous m'envoyer la facture de la commande CMD0017 svp ?
+MSG0236,2025-06-20,ham,Est-ce que la livraison est gratuite à Casablanca ?
+MSG0237,2025-04-24, ham ,Quel est le délai de livraison pour Casablanca ?
+MSG0238,2025-04-15,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0239,2025-08-01,ham,Sounds great! Are you home now?
+MSG0240,2025-12-13,ham,Quel est le délai de livraison pour Casablanca ?
+MSG0241,2025-12-07,ham,"Salam, wach kayn livraison l Agadir ? Choukran."
+MSG0242,2025-01-08,ham,"Bonsoir, je voudrais annuler la commande CMD0495, elle n'est pas encore expédiée."
+MSG0243,2025-03-16,ham,"Le code de suivi de CMD0480 ne marche pas, aidez-moi svp."
+MSG0244,2025-05-22,ham,"Bonjour, ma commande CMD0378 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0245,2025-03-31,ham,"Hi, can you send me the report of last sprint?"
+MSG0246,2025-01-31,ham,Pouvez-vous m'envoyer la facture de la commande CMD0262 svp ?
+MSG0247,2025-08-28,spam,"You have won a free iPhone! Call now to claim your prize, reply WIN to 8080"
+MSG0248,2025-03-26,ham,Y a-t-il une offre de garantie sur le robe ?
+MSG0249,2025-08-09,ham,Quel est le délai de livraison pour Agadir ?
+MSG0250,2025-01-14,ham,"Bonsoir, je voudrais annuler la commande CMD0257, elle n'est pas encore expédiée."
+MSG0251,2025-05-07,ham,Is the casque available in another color?
+MSG0252,2025-02-11,spam,"PROMO FLASH : aspirateur à 99 DH seulement, stock limité, cliquez www.offre-flash.top"
+MSG0253,2025-07-29,ham,"Le code de suivi de CMD0303 ne marche pas, aidez-moi svp."
+MSG0254,2025-11-27,ham,"Bonjour, je souhaite changer l'adresse de livraison de CMD0218."
+MSG0255,2025-08-26,ham,"Merci, j'ai bien reçu mon colis CMD0004, tout est conforme."
+MSG0256,2025-04-16,ham,Pouvez-vous me dire si le casque est en stock ?
+MSG0257,2025-03-22,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0258,2025-11-26,ham,"Hi, can you send me the report of last sprint?"
+MSG0259,2025-09-12,ham,Y a-t-il une offre de garantie sur le casque ?
+MSG0260,2025-04-21,ham,"Bonsoir, je voudrais annuler la commande CMD0406, elle n'est pas encore expédiée."
+MSG0261,2025-10-01,spam,"You have won a free téléphone! Call now to claim your prize, reply WIN to 8080"
+MSG0262,2025-07-04,ham,Pouvez-vous me dire si le chaussures est en stock ?
+MSG0263,2025-01-04,ham,Quel est le délai de livraison pour Rabat ?
+MSG0264,2025-04-18,,"Merci pour votre réponse rapide, bonne journée."
+MSG0265,2025-09-27,ham,"Je voudrais retourner l'article de la commande CMD0226, comment faire ?"
+MSG0266,2025-12-01,ham,
+MSG0267,2025-06-30,ham,"Hi, can you send me the report of last sprint?"
+MSG0268,2025-12-25,spam,"Congratulations! You are our lucky winner, claim your free voucher now"
+MSG0269,2025-12-31,ham,Please confirm that my order CMD0238 will be delivered before Friday.
+MSG0270,2025-02-05,spam,
+MSG0271,2025-07-28,HAM,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0272,2025-11-21,spam,"Prêt instantané sans justificatif, appelez le 0800 gratuit maintenant !!!"
+MSG0273,2025-03-16,ham,"Le montre que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0274,2025-05-29,ham,"Le code de suivi de CMD0376 ne marche pas, aidez-moi svp."
+MSG0275,2025-07-22,ham,Pouvez-vous m'envoyer la facture de la commande CMD0287 svp ?
+MSG0276,2025-03-31,spam,"Augmentez votre followers en 24h, offre spéciale www.offre-flash.top"
+MSG0277,2025-02-24,ham,Est-ce que la livraison est gratuite à Casablanca ?
+MSG0278,2025-07-14,spam,"Will u meet ur dream soon? Is ur career off 2 a flyng start? 2 find out free, txt HORO followed by ur star sign"
+MSG0279,2025-10-28,ham,Est-ce que je peux payer à la livraison à Fès ?
+MSG0280,2025-03-28,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0281,2025-08-19,ham,"Hi, can you send me the report of last sprint?"
+MSG0282,2025-02-10,ham,"Je voudrais retourner l'article de la commande CMD0030, comment faire ?"
+MSG0283,2025-12-15,ham,Quel est le délai de livraison pour Fès ?
+MSG0284,2025-02-09,,Est-ce que la livraison est gratuite à Tétouan ?
+MSG0285,2025-07-24,ham,"Le code de suivi de CMD0054 ne marche pas, aidez-moi svp."
+MSG0286,2025-02-13,ham,"Bonjour, je souhaite changer l'adresse de livraison de CMD0442."
+MSG0287,2025-08-16,ham,Pouvez-vous m'envoyer la facture de la commande CMD0024 svp ?
+MSG0288,2025-02-26,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0289,2025-06-17,ham,"Le colis CMD0352 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0290,2025-09-13,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0291,2025-02-26,ham,"Le code de suivi de CMD0465 ne marche pas, aidez-moi svp."
+MSG0292,2025-01-16,spam,"Augmentez votre followers en 24h, offre spéciale tinyurl.com/gain5000"
+MSG0293,2025-05-13,ham,"Le colis CMD0135 est arrivé endommagé, pouvez-vous me rappeler ?"
+MSG0294,2025-09-05,spam,"Augmentez votre followers en 24h, offre spéciale bit.ly/x8Kd2"
+MSG0295,2025-10-04,ham,Is the aspirateur available in another color?
+MSG0296,2025-02-01,ham,"Le code de suivi de CMD0436 ne marche pas, aidez-moi svp."
+MSG0297,2025-11-24,ham,Is the robe available in another color?
+MSG0298,2025-04-21,ham,Est-ce que je peux payer à la livraison à Marrakech ?
+MSG0299,2025-10-22,ham,"Hi, can you send me the report of last sprint?"
+MSG0300,2025-06-01,ham,"Super service, je recommande la boutique à mes amis !"
+MSG0301,2025-07-24,ham,"Bonjour, ma commande CMD0106 est arrivée en retard, c'est dommage."
+MSG0302,2025-11-26,ham,Quel est le délai de livraison pour Casablanca ?
+MSG0303,2025-04-19,spam,"Rencontrez des célibataires près de chez vous, inscription gratuite www.offre-flash.top"
+MSG0304,2025-03-22,ham,Quel est le délai de livraison pour Rabat ?
+MSG0305,2025-01-04,ham,Est-ce que je peux payer à la livraison à Tanger ?
+MSG0306,2025-12-05,ham,"Le code de suivi de CMD0043 ne marche pas, aidez-moi svp."
+MSG0307,2025-07-23,ham,"Le robe que j'ai reçu ne fonctionne pas, je veux un échange."
+MSG0308,2025-11-04,ham,Pouvez-vous me dire si le montre est en stock ?
+MSG0309,2025-07-09,spam,"Ne ratez pas cette opportunité unique, réponse avant minuit"
+MSG0310,2025-06-19,ham,Y a-t-il une offre de garantie sur le chaussures ?
+MSG0311,2025-09-21,ham,Est-ce que la livraison est gratuite à Agadir ?
+MSG0312,2025-06-28,ham,Sounds great! Are you home now?
+MSG0313,2025-05-09,ham,"Hi, can you send me the report of last sprint?"
+MSG0314,2025-04-19,ham,Sounds great! Are you home now?
+MSG0315,2025-07-29,ham,Please confirm that my order CMD0256 will be delivered before Friday.
+MSG0316,2025-04-06,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0317,2025-12-04,spam,"URGENT ! Votre compte est bloqué, confirmez vos informations bancaires sur www.offre-flash.top"
+MSG0318,2025-01-29,ham,"Je n'arrive pas à payer avec ma carte, l'application plante."
+MSG0319,2025-04-20,ham,"Hi, can you send me the report of last sprint?"
+MSG0320,2025-01-13,ham,Quel est le délai de livraison pour Tanger ?
+MSG0321,2025-04-24,ham,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0322,2025-05-12,spam,Verifiez votre identité maintenant sinon votre compte sera suspendu tinyurl.com/gain5000
+MSG0323,2025-03-28,ham,"Hi, can you send me the report of last sprint?"
+MSG0324,2025-11-05,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0325,2025-04-11,spam,subscribe now for free
+MSG0326,2025-03-17,ham,"Bonjour, ma commande CMD0085 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0327,2025-04-17,ham,"Super service, je recommande la boutique à mes amis !"
+MSG0328,2025-10-04,ham,"Bonsoir, je voudrais annuler la commande CMD0032, elle n'est pas encore expédiée."
+MSG0294,2025-09-05,spam,"Augmentez votre followers en 24h, offre spéciale bit.ly/x8Kd2"
+MSG0282,2025-02-10,ham,"Je voudrais retourner l'article de la commande CMD0030, comment faire ?"
+MSG0142,2025-03-28,spam,Cliquez ici pour recevoir votre cadeau gratuit : www.offre-flash.top
+MSG0267,2025-06-30,ham,"Hi, can you send me the report of last sprint?"
+MSG0084,2025-09-24,HAM,"Thanks, I will pick up the parcel tomorrow at the relay point."
+MSG0043,2025-03-25,ham,"Merci pour votre réponse rapide, bonne journée."
+MSG0263,2025-01-04,ham,Quel est le délai de livraison pour Rabat ?
+MSG0048,2025-09-01,ham,"Bonjour, ma commande CMD0267 n'est toujours pas arrivée, pouvez-vous vérifier ?"
+MSG0061,2025-01-27,spam,"PROMO FLASH : aspirateur à 99 DH seulement, stock limité, cliquez go.cadeau-vip.info"
+MSG0156,2025-01-11,spam,"Votre colis est en attente, payez 20 DH de frais de douane ici go.cadeau-vip.info"
