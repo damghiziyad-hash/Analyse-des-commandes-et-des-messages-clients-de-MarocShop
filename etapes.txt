@@ -1,0 +1,70 @@
+Partie 1 : Découverte et nettoyage (≈ 1 h 30)
+Q1.1 Chargez les deux fichiers : nombre de lignes/colonnes, types, valeurs manquantes.
+Q1.2 Identifiez la population, l’individu et 3 caractères pour chaque fichier.
+Q1.3 Remplissez le tableau de classification des variables (nominale, ordinale, discrète, continue) avec une justification.
+Q1.4 Auditez la qualité : doublons, manquants, modalités mal écrites, formats de date, valeurs suspectes. Remplissez le journal des anomalies.
+Q1.5 Nettoyez une copie : doublons, harmonisation des textes, dates (2 formats) + colonne mois, manquants (choix justifié par colonne). Ne touchez pas aux valeurs numériques extrêmes.
+Q1.6 Répondez : descriptive ou inférentielle pour les cas (a), (b), (c).
+Sortie : commandes_nettoye.csv + tableau avant/après.
+Partie 2 : Mesures centrales (≈ 1 h)
+Q2.1 Moyenne, médiane, mode de 4 variables, dans Excel et Python (vérifiez qu’ils concordent).
+Q2.2 Comparez moyenne et médiane (montant, délai) et choisissez la mesure à donner à la direction.
+Q2.3 Modes des variables qualitatives, et mesure centrale adaptée à l’ordinale.
+Q2.4 Montant moyen et médian par catégorie, avec diagramme en barres.
+Sortie : tableau Q2.1, diagramme, 5 lignes d’interprétation max. Gardez ces valeurs pour la partie 5.
+Partie 3 : Mesures de dispersion (≈ 1 h 15)
+Q3.1 Étendue, variance, écart-type (Excel et Python, attention à ddof=1).
+Q3.2 Calcul pas à pas sur 6 commandes dans Excel, avec colonnes intermédiaires.
+Q3.3 Écart-type du délai par ville, avec analyse.
+Q3.4 Sensibilité : avant/après retrait des 5 plus grandes valeurs.
+Q3.5 Homogénéité des montants (bonus : coefficient de variation).
+Partie 4 : Mesures de position et premiers outliers (≈ 1 h 30)
+Q4.1 Q1, Q2, Q3, D1, D5, D9, C95, C99 pour montant_dh (Excel et Python).
+Q4.2 Trois phrases d’interprétation.
+Q4.3 Histogramme avec lignes verticales (Q1, D5, C95), et un second histogramme zoomé si besoin.
+Q4.4 5 plus petites/grandes valeurs de 4 variables, puis registre des valeurs suspectes (8 lignes min).
+Q4.5 Méthode des 2σ sur montant_dh et age_client, avec nuage de points.
+Q4.6 Réflexion sur l’influence des extrêmes et l’hypothèse de normalité.
+Partie 5 : Détection et traitement des outliers (≈ 1 h 45, Python)
+Q5.1 IQR avec k = 1,5 et k = 3 pour 4 variables.
+Q5.2 Box plots globaux et par catégorie.
+Q5.3 Colonnes z_montant et z_age, outliers à |Z| > 3, histogramme des Z-scores.
+Q5.4 Tableau de concordance des 4 méthodes, et choix argumenté.
+Q5.5 Décision (A/B/C) et justification pour chaque valeur du registre.
+Q5.6 Produisez commandes_propre.csv, puis le tableau avant/après des indicateurs.
+Partie 6 : Mise à l’échelle et détection multivariée (≈ 1 h 45, Python)
+Q6.1 Standardisation et min-max, à la main puis avec scikit-learn.
+Q6.2 Trois histogrammes côte à côte (original, standardisé, normalisé).
+Q6.3 Tableau « usage → standardisation ou normalisation ».
+Q6.4 Distance euclidienne avant/après standardisation sur 2 commandes.
+Q6.5 DBSCAN : 4 combinaisons de paramètres minimum, choix justifié, graphique avec croix rouges.
+Q6.6 Isolation Forest avec contamination 0,01 / 0,03 / 0,05, et les 10 lignes les plus isolées.
+Q6.7 Tableau de comparaison des méthodes.
+Q6.8 Fiche de synthèse des méthodes de détection.
+Partie 7 : Probabilités et classification (≈ 2 h 30)
+
+7A. Bayes sur les commandes (commandes_propre.csv)
+
+Q7.1 P(retour) global et par catégorie.
+Q7.2 P(endommagé | entrepôt), avec détail du calcul pour C.
+Q7.3 P(C | endommagé) par Bayes, vérification et interprétation.
+Q7.4 Test d’indépendance retour / colis endommagé.
+
+7B. Naive Bayes sur les messages
+5. Q7.5 Préparation des messages, colonne Spam, diagramme, modèle « paresseux ».
+6. Q7.6 Bayes appliqué au mot « gratuit », avec vérification.
+7. Q7.7 Modèle MultinomialNB : matrice de confusion, précision, rappel.
+8. Q7.8 Test sur 6 messages que vous écrivez (avec predict_proba).
+9. Q7.9 Comparaison MultinomialNB / BernoulliNB, et pourquoi pas GaussianNB.
+
+7C. Monte Carlo
+10. Q7.10 Échantillons de 20 %, 10 %, 5 % (graine 42).
+11. Q7.11 1 000 répétitions par taille, histogrammes et tableau.
+12. Q7.12 Même chose avec age_client, et comparaison.
+
+Partie 8 : Synthèse décisionnelle (≈ 1 h)
+Q8.1 Rapport de 3 pages max : contexte/méthode, 6 constats chiffrés, 3 recommandations priorisées, limites.
+Q8.2 Onglet « Synthèse » Excel avec 8 indicateurs clés minimum.
+Q8.3 Auto-évaluation : 3 limites et 2 pistes d’amélioration.
+
+
