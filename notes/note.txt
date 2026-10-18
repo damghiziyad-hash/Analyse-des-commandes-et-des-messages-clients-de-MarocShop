@@ -1,0 +1,23 @@
+les variables qui faut change ley=ur type:
+date_commande : datetime
+
+Dans la dataset :
+    Quantitative : age_client , nb_articles , montant_dh , delai_livraison_jours
+    Qualitative Ordinal :date_commande , satisfaction
+    Qualitative nominal :id_commande , ville , sexe , categorie , canal , entrepot , colis_endommage , retour_client
+
+les valeurs manquantes :
+    age_client : 4.4 %
+    nb_articles : 1.2 %
+    montant_dh : 2.9 %
+    delai_livraison_jours : 3.5 %
+    id_commande : 0.0 %
+    date_commande : 0.0 %
+    ville : 0.0 %
+    sexe : 1.9 %
+    categorie : 0.0 %
+    canal : 1.5 %
+    entrepot : 0.0 %
+    colis_endommage : 0.0 %
+    satisfaction : 8.3 %
+    retour_client : 0.0 %

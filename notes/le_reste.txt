@@ -1,0 +1,15 @@
+Notebook
+
+Partie 4 : Q4.4 (registre), Q4.5 (méthode 2σ + nuage de points), Q4.6 (réflexion).
+Partie 5 : Q5.1 à Q5.6, avec commandes_propre.csv.
+Partie 6 : Q6.1 à Q6.8 (mise à l'échelle, DBSCAN, Isolation Forest).
+Partie 7 : Q7.1 à Q7.12 (probabilités, Naive Bayes sur messages_clients.csv, Monte Carlo).
+
+Excel
+
+Classeur avec onglets P1 à P8, parties 2 à 4 recalculées dans Excel (tableaux « Excel = Python ? »), au moins 3 graphiques, onglet « Synthèse » avec 8 indicateurs minimum.
+
+Word
+
+Q1.2, Q1.3, journal des anomalies Q1.4, Q1.6 et toutes les réponses rédigées.
+Rapport final de 3 pages maximum (partie 8).
