@@ -1,0 +1,4 @@
+Q3.2 : calcul pas à pas sur 6 commandes (Excel).
+Q3.4 : sensibilité de l'écart-type aux 5 plus grandes valeurs.
+Q3.5 : homogénéité / coefficient de variation.
+Q4.4 : registre des valeurs suspectes (obligatoire avant Q5.5).
